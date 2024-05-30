@@ -11,6 +11,8 @@ o pot accesa in acest caz nefavorabil.
 folositor deoarece mi am reamintit ultimele parti din materia de USO si m a 
 facut sa fiu mai confortabi cu a lucra la proiecte mai mari folosind git.
 
+> ***NOTE:*** link de github: ```bash https://github.com/editheman/Tema_PCLP3.git```
+
 ## Descrierea codului
 
 ### Cerinta 1:
@@ -25,7 +27,5 @@ afiseaza numarul de valori lipsa, duplicate si totalul de randuri si coloane.
 
 Aceasta functie calculeaza si afiseaza procentele de supravietuire, distributia 
 pe clase si distributia pe sexe dintr-un set de date. Foloseste `value_counts` 
-cu `normalize=True` pentru a obtine procentele si le afiseaza sub forma de 
-grafice folosind Matplotlib si Seaborn. Graficele reprezinta procentul de 
-supravietuire, distributia pe clase si distributia pe sexe.
-
+cu `normalize=True` pentru a obtine procentele, le afiseaza sub forma de 
+grafice folosind Matplotlib si Seaborn. Graficele reprezinta procen
