@@ -11,6 +11,8 @@ o pot accesa in acest caz nefavorabil.
 folositor deoarece mi am reamintit ultimele parti din materia de USO si m a 
 facut sa fiu mai confortabi cu a lucra la proiecte mai mari folosind git.
 
+
+
 > ***NOTE:*** link de github: 
 ```bash
 https://github.com/editheman/Tema_PCLP3.git
@@ -80,3 +82,4 @@ Afiseaza un grafic Seaborn cu distributia titlurilor, rotind etichetele pe axa X
 Aceasta functie creeaza un subset de date care contine primele 100 de randuri. 
 Apoi, foloseste Seaborn pentru a crea un grafic swarm plot care arata relatia 
 dintre clasa calatoriei, supravietuire si sexul pasagerilor din subsetul de date.
+
