@@ -9,7 +9,7 @@ o pot accesa in acest caz nefavorabil.
 
 > **NOTE:** Chiar daca am facut singur proiectul, lucrul cu git mi a fost foarte
 folositor deoarece mi am reamintit ultimele parti din materia de USO si m a 
-facut sa fiu mai confortabi cu a lucra la proiecte mai mari folosind git.
+facut sa fiu mai confortabil cu a lucra la proiecte mai mari folosind git.
 
 
 
