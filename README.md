@@ -1,4 +1,4 @@
-# Tema_PCLP3 - Titanic
+# Titanic - Data Alalysis
 
 ## Timp de rezolvare
 
